@@ -1,0 +1,16 @@
+{
+    "reservas": [
+        {
+            "nombre": "Juan Pérez",
+            "email": "juan.perez@gmail.com",
+            "telefono": "+911456789",
+            "tipoHabitacion": "Matrimonial"
+        },
+        {
+            "nombre": "Ana García",
+            "email": "ana.garcia@gmail.com",
+            "telefono": "+987654321",
+            "tipoHabitacion": "Doble"
+        }
+    ]
+}
